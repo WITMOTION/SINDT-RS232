@@ -1,4 +1,4 @@
-# WT901C-TTL
+# WT901C-RS232
 Developed tutorial: providing manual, datasheet, free software
 for Windows computer, APP for Android smartphones , and sample code for
 MCU integration including 51 serial, STM32, Arduino, Matlab, Raspberry Pi,
@@ -21,17 +21,17 @@ Unzip the .zip file and you will have a directory containing the files.
 Document download link:
 
 Github 
-https://github.com/WITMOTION/WT901C-TTL
+https://github.com/WITMOTION/WT901C-RS232
 
 Google Drive: 
-https://drive.google.com/open?id=105rvxXIr_lh-DH1Xq-Mt8EMOz2QulKsi
+https://drive.google.com/open?id=1dq6J0l351LG8G4BD3A-M4JOgC9z3BX4H
 
 -----------
 Youtube Channael: 
 https://www.youtube.com/c/WITMOTION
 
-WT901C-TTL Playlist: 
-https://www.youtube.com/playlist?list=PL43tdDrVL_VAWhJ11hLfMyUSWl2Pes6PE
+WT901C-RS232 Playlist: 
+https://www.youtube.com/playlist?list=PL43tdDrVL_VByavgQKl4ROVvqmtBDKlgS
 
 -----------
 After-sale Service& Technical Support: 
