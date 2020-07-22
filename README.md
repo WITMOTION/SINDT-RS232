@@ -1,4 +1,4 @@
-# WT901C-RS232
+# SINDT-RS232
 Developed tutorial: providing manual, datasheet, free software
 for Windows computer, APP for Android smartphones , and sample code for
 MCU integration including 51 serial, STM32, Arduino, Matlab, Raspberry Pi,
@@ -21,17 +21,17 @@ Unzip the .zip file and you will have a directory containing the files.
 Document download link:
 
 Github 
-https://github.com/WITMOTION/WT901C-RS232
+https://github.com/WITMOTION/SINDT-RS232
 
 Google Drive: 
-https://drive.google.com/open?id=1dq6J0l351LG8G4BD3A-M4JOgC9z3BX4H
+https://drive.google.com/open?id=1voF1PDz65Uncn7gbr5M1cTwwpN4SS8iD
 
 -----------
 Youtube Channael: 
 https://www.youtube.com/c/WITMOTION
 
-WT901C-RS232 Playlist: 
-https://www.youtube.com/playlist?list=PL43tdDrVL_VByavgQKl4ROVvqmtBDKlgS
+SINDT-RS232 Playlist: 
+https://www.youtube.com/watch?v=czfTN81Jsdg&list=PL43tdDrVL_VA9xAFDCbhYlEODd1l_cAvc
 
 -----------
 After-sale Service& Technical Support: 
